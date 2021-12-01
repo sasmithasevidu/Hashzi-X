@@ -1,15 +1,15 @@
 {
-    "name": "Amazone Alexa V8",
+    "name": "chamod ck",
     "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
-    "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
-    "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
+    "logo": "https://telegra.ph/file/d1eb8fabf9e772e419f1c.jpg",
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "queen alexa"],
+    "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jfGkM7I",
+    "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jfGkM7I",
+    "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6jf6GkM7I",
     "stack": "container",
     "env": {
         "NEUTRO_SESSION": {
-            "description": "Paste your QR session.",
+            "description": "ඔබට ලැබුනු sessoin key එක past කරන්න.Paste your QR session.",
             "required": true
         },
         "SUDO": {
@@ -29,7 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "👩‍🦰©queen Alexa"
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 👩‍🦰Amazone Alexa"
+            "value": "Made By 👩‍🦰queen Alexa"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -112,7 +112,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg"
+            "value": "https://telegra.ph/file/d1eb8fabf9e772e419f1c.jpg"
         },
         "WELCOME_GIF": {
             "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
@@ -142,12 +142,12 @@
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "EMOJI_COMMAND": {
             "description": "You can change Command list emojis.)",
             "required": true,
-            "value": "👸"
+            "value": "🧚‍♀️"
         },
         "EMOJI_DESCRIPTION": {
             "description": "You can change command list emojis.)",
@@ -167,7 +167,7 @@
         "PANEL_COMMAND": {
             "description": "Customizeable commands list request command. Keep alexa if you don't want to change.",
             "required": true,
-            "value": "alexa"
+            "value": "panel"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
@@ -176,7 +176,8 @@
         "ALIVE_MESSAGE": {
             "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case.",
             "required": false,
-            "value": "default"
+            "value": "hei i am alive 
+I love yuo"
         },
         "BAN_MESSAGE": {
             "description": "The message you get when someone commands you as .ban and removes it. If you do not want to change this message, type default.",
