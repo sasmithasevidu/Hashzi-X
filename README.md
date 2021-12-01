@@ -49,7 +49,7 @@
 
 ## 🧚‍♀️හදන්න ඕන්නම් මෙතනින් ඔබාම්💫
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasmithasevidu/Queen-alexa-deshan-official-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasmithasevidu/Hashzi-X)
 
 # 🚀ALEXA QUEEN පහසුකම් ලැයිස්තුව
 
