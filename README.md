@@ -1,111 +1,57 @@
-#### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
-    
-</a>          
+##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁
 
 
-</a>
+    Queen alexa is the whatsapp bot project.
+    it can help us to any work in some command.
+    This is a best whatsapp robot with artificial intelligent.
 
-![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
-<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
 
-</a>
-             
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
-
-</a>
-<p align="center">
-    Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. AMAZONE-Alexa යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
-    <br>
-        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
-   </a>    
-        
-  <p align="center">
-<a href="https://t.me/Bot_x_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
+    <a href="https://github.com/sasmithasevidu/Queen-alexa-deshan-official-">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Queen+alexa...+Thank+You+For+Visiting+us...."
+            alt="Typing SVG"
+        />
+    </a>
 </p>
-   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
-    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
+
+
+![logo](https://telegra.ph/file/d1eb8fabf9e772e419f1c.jpg)
+
+
+
+
+### 🧚‍♀️DESHAN TEAM💫
+
+
+
+👨‍💻  CK shan bro *[ Owner ]*
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94786825798)
+
+
+👨‍💻  Chamod bro [ texting ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-Whatsapp-blue.svg)](https://Wa.me/+94768446178)
+
+👨‍💻  kehan bro  [ Helper ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94775728379)
+
+👨‍💻 CK shan bro   [  helping group ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94786825798)
+
+**╭──⦁ Simple method ⦁──╮**
+
+## 🧚‍♀️මෙතනින් scan කරන්න ඉදිරියේදී ලබා දෙමි💫
+
+
+## 🧚‍♀️හදන්න ඕන්නම් මෙතනින් ඔබාම්💫
   
-  </a>
-  <a href="https://github.com/xneon2/Hashzi-X">
-    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
-    
-  </a>
-</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasmithasevidu/Queen-alexa-deshan-official-)
 
-<p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
-  
-  </a>
-  <a href="https://github.com/xneon2/Hashzi-X/fork">
-    <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/xneon2/Hashzi-X/stargazers">
-    <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="httsp://github.com/xneon2/Hashzi-X">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
-
-  </a>
-  <a href="https://wa.me/94786598862">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
-
-  </a>
-</p>
-
-### 👩‍🦰ක්‍රියාත්මක කරන්නෙ කෙසේද??
-
-#### සරල ක්‍රමය
-
-#### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/Alexa?v=1)
-
-
-#### Termux මඟින් ලබාගන්න
-```
-bash <(curl -L https://tinyurl.com/ALEXA-session) 
-```
-##### ඉහත කේතය Copy කරගෙන termux එකෙ paste කරලා Run කරන්න.
-
-### [NOTE ❓]
-```
-Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
-ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
-ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
-පළමු උපාංගයෙන් ඔබට Amazone Bot install කිරීමට අවශ්‍යයි..
-```
-#### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
-
-
-> [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
-
-> [![සම්පූර්ණ සිංහල Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
-
-# 🚀Amazone පහසුකම් ලැයිස්තුව
+# 🚀ALEXA QUEEN පහසුකම් ලැයිස්තුව
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
@@ -119,6 +65,26 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 
   </a>
 
+### [NOTE ❓]
+```
+Deshan-Queen Alexa bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
+පලමු උපාංගය අවශ්‍ය වන්නේ QR කේතය SCAN කිරීමට පමණී.
+ඉන් පසු ඔබට ඔබේ පලමු උපාංගයෙන් හෝ දෙවන උපාංගයෙන් හෝ ඕනෑම උපාංගයකින් bot ක්‍රියා කරවීමට හැකියාව ඇත.
+ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
+ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
+පලමු හෝ දෙවන උපාංගයෙන් ඔබට Alexa Bot install කිරීමට අවශ්‍යයි..
+එයට heroku account එකක් අවශ්‍යයි..
+```
+
+### ⚠️ Warning! 
+```
+පරිශීලක බොට් නිසා; ඔබගේ WhatsApp ගිණුම banned කළ හැකිය.
+එය උපරිම වලක්වා ගැනීමට WhatsApp Business භාවිතා කරන්න.
+මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය. 
+නියත වශයෙන්ම,Deshan-official විධායකයන් වගකීම භාර නොගනී.
+Deshan-official පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
+```
+
 ## 🚀F.A.Q
 නිතර අසන ප්‍රශ්න කිහිපයකට පිළිතුරු සපයන්න;
 
@@ -129,65 +95,49 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 ඔබ ආරක්ෂාව ගැන සැලකිලිමත් වන්නේ නම්, ඔබට එය ඔබේම පරිගණකයකින් install කළ හැකිය. වෙනත් අයෙකු ඔබගේ දත්ත ග්‍රහණය කර ගෙන ඇතැයි ඔබ සිතන්නේ නම්, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
 
 ### 💰මෙම බොට් ගෙවිය යුතුද?
-**ඇත්ත වශයෙන්ම නැත.*** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via [Whatsapp](https://wa.me/+94766598862) .
+**ඇත්ත වශයෙන්ම නැත.*** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via [Whatsapp](https://wa.me/+94702256963) .
 
 ### ❓ඔබට මෙය නැවත සංස්කරණය කළ හැකිද??
 ***අනිවාර්යයෙන් ඔබට හැකියි.*** නමුත් අපෙන් ඔබට කිසිදු සහයක් නොමැත.
 
-### ⚠️ Warning! 
-```
-පරිශීලක බොට් නිසා; ඔබගේ WhatsApp ගිණුම banned කළ හැකිය.
-මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය. 
-නියත වශයෙන්ම,Neotro-x  විධායකයන් වගකීම භාර නොගනී.
-neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
-```
 
-## 👨‍💻Developer
-
-[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
-
- ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Teenuh-X😈)***
-<a href="https://Wa.me/+94766598862">
-    <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
-  
-  </a>
-
-<a href="https://Wa.me/+14382551507">
-    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
-  
-  </a>
-
-<a href="https://Wa.me/+17722181933">
-    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
-  
-  </a>
-
-<a href="https://Wa.me/+17723534981">
-    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
-  
-  </a>
-
-[![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
-[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
+![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
+<h1 align="center"><b> 🧚queen alexa(ᴠɪᴘ) </b></h1>
 
 
-### 🚀Amazone Alexa Team
+## 👨‍💻 Sponser & Supporter 👨‍💻
 
-[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ransika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Ganster-blue.svg)](https://Wa.me/)
-### 📑Amozon Support Groups
+ [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  
+----|
+[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  |
+Helper , Supporter , public module |
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support02-blue.svg)](https://chat.whatsapp.com/K4QouGNrNcm1iARgDaYiLj)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://chat.whatsapp.com/LuLTEKm22fp8gv4ltCmKMo)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://chat.whatsapp.com/LVykTrmNEU98AktU0eBNNq)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News03-purple.svg)](https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5oy8)
-## 👽Thanks To
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
-[Yusuf Usta](https://t.me/fusufs)
+[![Chamod_Bro-TeenuhX](https://github.com/En-Cuzier.png?size=100)](https://https://youtu.be/mcEeIspWOpY) |
+----|
+[CK_shan](https://github.com/TOXIC_DEVIL)  |
+Bot owner , Bug fixer , module fixer|
+
+
+[![Chamod_Broh](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY) |
+----|
+[Ck shan_Broh-TeenuhX](https://github.com/TOXIC-DEVIL)  |
+Group owner , Supporter , bug fixer |
+
+
+
+[![Find on whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyAT)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/GTgqgMTo7FoJ1GijsX)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support02-blue.svg)](https://chat.whatsapp.com/K4QouGNrNcm1igDaYiLj)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/DSX2aegJpVRG3IBa48)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://chat.whatsapp.com/LuLTEKm22fp8gltCmKMo)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://chat.whatsapp.com/LVykTrmNEU98AktU0NNq)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone
+
+
+🧚‍♀️Support group🧚‍♀️ (coming soon)
+
+🧚‍♀️Bot group💫
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://chat.whatsapp.com/BRooILzZOIbFbVcOjDRpU5)
+
+
+ **🧚‍♀️Thanks For using QUEEN ALEXA💫**
