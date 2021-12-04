@@ -132,7 +132,7 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
         });
 // ════════════════════PLUGGINS SUCCESS◽◽◽◽
         console.log(
-            chalk.green.bold('👩‍🦰AMAZONE ALEXA working!')
+            chalk.green.bold('👩‍🦰දැන් ඔබේ Amozone alexa බොට් වැඩ කරනු ඇත!')
        );
         
          if (config.LANG == 'EN') {
